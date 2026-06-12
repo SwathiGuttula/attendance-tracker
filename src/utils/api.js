@@ -1,7 +1,7 @@
 // Central API client — replaces storage.js
 // All calls go to the Express backend
 
-const BASE = 'http://localhost:5000/api'
+const BASE = 'https://attendance-tracker-production-4626.up.railway.app/api'
 
 function getToken() {
   return localStorage.getItem('att_token')
