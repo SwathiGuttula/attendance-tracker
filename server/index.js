@@ -5,7 +5,7 @@ const initDB  = require('./config/initDB')
 
 const app = express()
 
-app.use(cors({ origin: ['http://localhost:5173', 'http://localhost:3000'] }))
+app.use(cors({ origin: '*' }))
 app.use(express.json())
 
 // Routes
