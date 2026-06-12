@@ -6,8 +6,10 @@ A cloud-ready, full-stack attendance management system with role-based dashboard
 
 ## Live Demo
 
-> Frontend: _deploy link here_  
-> Backend API: _deploy link here_
+> **Live:** https://attendance-tracker-xlkt.vercel.app
+
+**Backend API:** Deployed on Railway (Node.js/Express + MySQL)  
+**API Base URL:** `https://attendance-tracker-production-4626.up.railway.app/api`
 
 **Demo credentials:**
 
